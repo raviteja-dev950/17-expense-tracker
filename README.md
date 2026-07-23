@@ -17,37 +17,13 @@ This project demonstrates enterprise Java development concepts including **DAO P
 ---
 
 # 📸 Application Demo
-
-## 🏠 Main Menu
-
 ![Demo 1](screenshots/demo1.png)
-
-## ➕ Add Expense
-
 ![Demo 2](screenshots/demo2.png)
-
-## 📋 View Expenses
-
 ![Demo 3](screenshots/demo3.png)
-
-## 🔍 Search Expense
-
 ![Demo 4](screenshots/demo4.png)
-
-## ✏️ Update Expense
-
 ![Demo 5](screenshots/demo5.png)
-
-## 🗑 Delete Expense
-
 ![Demo 6](screenshots/demo6.png)
-
-## 📊 Monthly Expense Report
-
 ![Demo 7](screenshots/demo7.png)
-
-## 📈 Category Wise Report
-
 ![Demo 8](screenshots/demo8.png)
 
 ---
@@ -187,17 +163,5 @@ ExpenseTrackerApp.java
 ✔ Console Application Development
 
 ---
-
-# 📌 Project Status
-
-🟢 **Completed Successfully**
-
----
-
-# 👨‍💻 Developer
-
-**Ravi Teja**
-
-Java Full Stack Developer
 
 ⭐ If you found this project useful, don't forget to star the repository.
