@@ -22,9 +22,6 @@ This project demonstrates enterprise Java development concepts including **DAO P
 ![Demo 3](screenshots/demo3.png)
 ![Demo 4](screenshots/demo4.png)
 ![Demo 5](screenshots/demo5.png)
-![Demo 6](screenshots/demo6.png)
-![Demo 7](screenshots/demo7.png)
-![Demo 8](screenshots/demo8.png)
 
 ---
 
